@@ -1,7 +1,7 @@
 # EJERCICIO 1 — Proyecto guiado paso a paso
 
 ## Objetivo
-Crear una pequeña página web y practicar el flujo completo con **Git y GitHub** (repositorio, ramas, conflictos, PR y release).
+Crear una pequeña página web y practicar el flujo completo con Git y GitHub (repositorio, ramas, conflictos, PR y release).
 
 
 ## Repositorio
@@ -9,13 +9,13 @@ Crear una pequeña página web y practicar el flujo completo con **Git y GitHub*
 
 
 ## Crear el repositorio en GitHub
-He creado un repositorio público llamado **git web kassandra gaitan** con un archivo `README` para iniciar el proyecto.
+He creado un repositorio público llamado **git web kassandra gaitan** con un archivo README para iniciar el proyecto.
 
 ![Crear repositorio en GitHub](img/Nuevo_repo_web.png)
 
 
 ## Clonar el repositorio y crear estructura inicial
-He clonado el repositorio en mi equipo y he creado las carpetas `src` y `docs`, junto con el archivo `index.html` como base del sitio.
+He clonado el repositorio en mi equipo y he creado las carpetas src y docs, junto con el archivo index.html como base del sitio.
 
 ![Clonar el repositorio y crear estructura inicial](img/Clonar_y_estructura_web.png)
 
@@ -33,7 +33,7 @@ He creado la rama **feature/header** para desarrollar el encabezado de la págin
 
 
 ## Editar código en la rama
-He añadido un elemento `<header>` al archivo `index.html` para incluir el encabezado principal del sitio.
+He añadido un elemento <header> al archivo index.html para incluir el encabezado principal del sitio.
 
 ![Editar código en la rama](img/EditarCodigo_Rama_web.png)
 
@@ -45,13 +45,13 @@ He guardado los cambios y los he subido al repositorio remoto.
 
 
 ## Crear un Pull Request (PR) en GitHub
-He abierto un **Pull Request** para fusionar la rama `feature/header` con la rama `main` y revisar los cambios.
+He abierto un **Pull Request** para fusionar la rama feature/header con la rama main y revisar los cambios.
 
 ![Crear un Pull Request en GitHub](img/PullRequest_web.png)
 
 
 ## Fusionar la rama y confirmar el merge
-He completado la revisión y he realizado el **merge exitoso** de la rama `feature/header` a `main`.
+He completado la revisión y he realizado el **merge exitoso** de la rama feature/header a main.
 
 ![Fusionar la rama y confirmar el merge](img/Fusionar_web.png)
 
