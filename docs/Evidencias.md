@@ -9,7 +9,7 @@ Crear una pequeña página web y practicar el flujo completo con Git y GitHub (r
 
 
 ## Crear el repositorio en GitHub
-He creado un repositorio público llamado **git web kassandra gaitan** con un archivo README para iniciar el proyecto.
+He creado un repositorio público llamado **git web kassandra gaitan** con un archivo `evidencias.md` para iniciar el proyecto.
 
 ![Crear repositorio en GitHub](/img/Nuevo_repo_web.png)
 
